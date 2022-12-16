@@ -1,5 +1,5 @@
 {
     "hooks": {
-       "pre-commit": "vitest"
+       "pre-commit": "pnpm run test"
     }
   }
